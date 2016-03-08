@@ -4,7 +4,7 @@
         <description><![CDATA[Howies YAGALOO Das Musikmagazin ]]></description>
         <link>https://thegrid.ai/howiesyagaloo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 19:13:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2016 19:25:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/howiesyagaloo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -26,6 +26,13 @@
             <link>https://thegrid.ai/howiesyagaloo/d60a6c8b-5c8b-443c-8bfa-4ce3dafe27bd/index.html</link>
             <guid isPermaLink="false">d60a6c8b-5c8b-443c-8bfa-4ce3dafe27bd</guid>
             <pubDate>Tue, 08 Mar 2016 08:27:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ollie Gabriel - Running Man]]></title>
+            <description><![CDATA[<article><h1>Ollie Gabriel - Running Man</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7eb636717355dfbc80c28c21b55415c18d151dfe.jpg"></article>]]></description>
+            <link>https://thegrid.ai/howiesyagaloo/ollie-gabriel-running-man/index.html</link>
+            <guid isPermaLink="false">ea70bd98-ef4f-4c8e-b4b5-f6464e503ac5</guid>
+            <pubDate>Tue, 08 Mar 2016 19:24:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=J05iWNwMqA8&amp;feature=youtu.be</link>
             <guid isPermaLink="false">e04efb13-e7c7-48d8-9bea-ab906c1319f7</guid>
             <pubDate>Tue, 08 Mar 2016 15:46:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tim, Fabio&Flo - "Scream" (live)]]></title>
-            <description><![CDATA[<article><h1>Tim, Fabio&Flo - "Scream" (live)</h1><p>Tim, Fabio&Flo sind drei Berliner Newcomer, die beim Europendent Rock in der Berliner Wabe sich live präsentiert haben. Yagaloo.TV war exclusiv für die Fans dabei!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7ac2c49d99b0c0c487469a1aa116dafc11335136.jpg"></article>]]></description>
-            <link>http://www.entania.com/video/video/3148755-tim-fabio-flo-scream-live/</link>
-            <guid isPermaLink="false">e345fa4c-b22a-4827-abbd-15078720fc94</guid>
-            <pubDate>Tue, 08 Mar 2016 15:14:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
