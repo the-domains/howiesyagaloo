@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Glee-Star Noah Guthrie war in Berlin. Yagaloo.TV war exclusiv dabei. Hier ist sein Song "The Death Of Me" live aus dem Privatclub, Berlin! Hammer!'
-datePublished: '2016-03-08T15:02:56.988Z'
-dateModified: '2016-03-08T15:01:42.912Z'
+datePublished: '2016-03-08T15:03:18.865Z'
+dateModified: '2016-03-08T15:03:15.780Z'
 author: []
 related: []
 app_links: []
