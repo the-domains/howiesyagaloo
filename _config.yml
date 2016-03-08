@@ -1,7 +1,7 @@
 name: Howiesyagaloo
 favicon: null
-layout_spectrum: 0.15388310747221112
-typography_spectrum: 0.7444211489055306
+layout_spectrum: 0.78805
+typography_spectrum: 0.56115
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#5C6B73'
     - '#253237'
   brandStrength: 0.7433765309397131
-  lightness: 0.6691869227215648
+  lightness: 0.3125
   saturation: 0.027326339622959495
-  rhythmicContrast: 0.2812897090334445
+  rhythmicContrast: 0.75
 purpose: []
