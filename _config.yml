@@ -1,29 +1,41 @@
-name: Howiesyagaloo
-favicon: null
-layout_spectrum: 0.78805
-typography_spectrum: 0.56115
-title: 'Howies YAGALOO Das Musikmagazin '
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.78805
+title: 'Howies YAGALOO Das Musikmagazin '
+cta:
+  bucket: null
+  version: null
+  domain: null
 color:
+  saturation: 0.02732633962295949
+  brandStrength: 0.7433765309397131
+  rhythmicContrast: 0.75
   brandColors:
     - '#E0FBFC'
     - '#C2DFE3'
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.7433765309397131
   lightness: 0.3125
-  saturation: 0.027326339622959495
-  rhythmicContrast: 0.75
 purpose: []
+favicon: null
+name: Howiesyagaloo
+typography_spectrum: 0.56115
