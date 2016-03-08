@@ -4,7 +4,7 @@
         <description><![CDATA[Howies YAGALOO Das Musikmagazin ]]></description>
         <link>https://thegrid.ai/howiesyagaloo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 20:29:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2016 20:29:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/howiesyagaloo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -26,6 +26,13 @@
             <link>https://thegrid.ai/howiesyagaloo/d60a6c8b-5c8b-443c-8bfa-4ce3dafe27bd/index.html</link>
             <guid isPermaLink="false">d60a6c8b-5c8b-443c-8bfa-4ce3dafe27bd</guid>
             <pubDate>Tue, 08 Mar 2016 08:27:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[FARGO - Nessi from the blog (live)]]></title>
+            <description><![CDATA[<article><h1>FARGO - Nessi from the blog (live)</h1><p>Uploaded by Howie's YAGALOO Das Musikmagazin on 2016-01-28.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d75ccb83e09d3b6eb7f0e395a9645953e55b58b.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=zPKYiXqIVI4</link>
+            <guid isPermaLink="false">116c0f78-6682-4af5-bf8a-3c9e57dfdec4</guid>
+            <pubDate>Tue, 08 Mar 2016 20:28:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Arionce - "Ghost" (live)]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/howiesyagaloo/51218008-4c90-4814-a4a3-ddf189db43d1/index.html</link>
             <guid isPermaLink="false">51218008-4c90-4814-a4a3-ddf189db43d1</guid>
             <pubDate>Tue, 08 Mar 2016 18:51:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/965561dd-ae14-41f0-8d61-cd99d92ffbdd.png">]]></description>
-            <link>https://thegrid.ai/howiesyagaloo/5be12f85-6d3f-4f3f-ade5-f0f261782ccb/index.html</link>
-            <guid isPermaLink="false">5be12f85-6d3f-4f3f-ade5-f0f261782ccb</guid>
-            <pubDate>Tue, 08 Mar 2016 18:51:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
