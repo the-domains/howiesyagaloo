@@ -4,8 +4,15 @@
         <description><![CDATA[Howies YAGALOO Das Musikmagazin ]]></description>
         <link>https://thegrid.ai/howiesyagaloo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 23:32:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 23:56:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/howiesyagaloo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[U can make it!]]></title>
+            <description><![CDATA[<h1>U can make it!</h1>]]></description>
+            <link>https://thegrid.ai/howiesyagaloo/u-can-make-it/index.html</link>
+            <guid isPermaLink="false">c8c56665-3b5b-4b87-924d-52c0e9052e09</guid>
+            <pubDate>Wed, 09 Mar 2016 23:56:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Justin Bieber Parodie]]></title>
             <description><![CDATA[<article><h1>Justin Bieber Parodie</h1><p>Das preisgekrönte Fernsehmusikmagazin YAGALOO.TV aus Berlin - mit Interviews, Akustiksessions und ständig neuen Videos!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e526d8abfc587d35c9143d566674cab258b732ac.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Linda Varg - "Russian Roulette" (acoustic)</h1><p>"Russian Roulette" ist ein Song auf der Debüt-EP "Welcome to Bangville Vol.1" der schwedischen Musikerin Linda Varg. Bei VampyrDeLuxe hat sie den Song für Yagaloo.TV akustisch dargeboten. ************************************************************************* ► Jetzt Abonnieren: http://bit.ly/1E8SxTX ► Finde uns auf Facebook: https://www.facebook.com/yagaloo.TV ► Folge uns auf Twitter: https://twitter.com/yagalooTV ► Website: http://www.yagaloo.com/ *************************************************************************</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ea4f4e25b4a3777b68f56241988ee0db11dd6b9d.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=G8l7BZrYljk</link>
             <guid isPermaLink="false">ef6ea642-a9fb-4207-9225-53881531cd2e</guid>
-            <pubDate>Tue, 08 Mar 2016 20:28:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Linda Varg aus Schweden nun auch in Deutschland am Start!]]></title>
-            <description><![CDATA[<article><h1>Linda Varg aus Schweden nun auch in Deutschland am Start!</h1><p>Sie hat bei Popstars und der schwedischen Ausgabe von DSDS mitgemacht - Linda Varg. Nun ist sie in Deutschland auf Tour und hat sich bei Yagaloo.TV vorgestellt. ************************************************************************* ► Jetzt Abonnieren: http://bit.ly/1E8SxTX ► Finde uns auf Facebook: https://www.facebook.com/yagaloo.TV ► Folge uns auf Twitter: https://twitter.com/yagalooTV ► Website: http://www.yagaloo.com/ *************************************************************************</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/faeb040a5600807d1f3a13920385375ccfef6bad.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=AUP6mSs4uAU</link>
-            <guid isPermaLink="false">0cfaa870-67e8-479e-9836-ba6416a5cad1</guid>
             <pubDate>Tue, 08 Mar 2016 20:28:41 GMT</pubDate>
         </item>
     </channel>
