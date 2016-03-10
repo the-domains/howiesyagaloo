@@ -4,8 +4,15 @@
         <description><![CDATA[Howies YAGALOO Das Musikmagazin ]]></description>
         <link>https://thegrid.ai/howiesyagaloo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 00:14:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2016 00:15:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/howiesyagaloo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[blue man group.]]></title>
+            <description><![CDATA[<h1>blue man group.</h1>]]></description>
+            <link>https://thegrid.ai/howiesyagaloo/blue-man-group/index.html</link>
+            <guid isPermaLink="false">f8c69af4-1935-4a10-b36f-bb63ccbb274f</guid>
+            <pubDate>Thu, 10 Mar 2016 00:14:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[carpool karaoke]]></title>
             <description><![CDATA[<h1>carpool karaoke</h1>]]></description>
@@ -68,13 +75,6 @@
             <link>http://yagaloo.com/131-musikvideos/846-max-giesinger-80-millionen-das-musikvideo.html</link>
             <guid isPermaLink="false">bfda6fa6-4d40-4839-afb5-9cc28c979413</guid>
             <pubDate>Wed, 09 Mar 2016 02:21:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I love THE VOICE]]></title>
-            <description><![CDATA[<article><h1>I love THE VOICE</h1><p>In the Season 10 premiere, Coaches Adam, Blake, Christina and Pharrell turn their chairs for the best undiscovered voices in America.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5123a409f6b5f2c1020aa6c67fc7d14e45b0d8e4.jpg"></article>]]></description>
-            <link>https://thegrid.ai/howiesyagaloo/i-love-the-voice/index.html</link>
-            <guid isPermaLink="false">a8431bda-1414-4e77-85c2-a112e2bbee56</guid>
-            <pubDate>Wed, 09 Mar 2016 01:57:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
