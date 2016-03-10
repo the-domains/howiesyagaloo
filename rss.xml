@@ -4,8 +4,15 @@
         <description><![CDATA[Howies YAGALOO Das Musikmagazin ]]></description>
         <link>https://thegrid.ai/howiesyagaloo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 00:15:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2016 00:22:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/howiesyagaloo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[3 doors down.]]></title>
+            <description><![CDATA[<article><h1>3 doors down.</h1><p>Watch In The Dark (Official Video) by 3 Doors Down online at vevo.com. Discover the latest Rock music videos by 3 Doors Down on Vevo.</p></article>]]></description>
+            <link>http://www.vevo.com/watch/3-doors-down/In-The-Dark-%28Official-Video%29/USUV71600072</link>
+            <guid isPermaLink="false">9b464ca6-9795-43f0-9bb9-2643e1900973</guid>
+            <pubDate>Thu, 10 Mar 2016 00:22:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[blue man group.]]></title>
             <description><![CDATA[<h1>blue man group.</h1>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/howiesyagaloo/justin-bieber-parodie/index.html</link>
             <guid isPermaLink="false">ac0714cc-daad-4aab-abef-bdcba081fc27</guid>
             <pubDate>Wed, 09 Mar 2016 23:32:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Max Giesinger - 80 Millionen - Das Musikvideo]]></title>
-            <description><![CDATA[<article><h1>Max Giesinger - 80 Millionen - Das Musikvideo</h1><p>Max Giesinger - 80 Millionen - Das Musikvideo - Howie's YAGALOO Das Musikmagazin</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/70cc3a4ba985b94ad16921be9d219b640f83bf20.jpg"></article>]]></description>
-            <link>http://yagaloo.com/131-musikvideos/846-max-giesinger-80-millionen-das-musikvideo.html</link>
-            <guid isPermaLink="false">bfda6fa6-4d40-4839-afb5-9cc28c979413</guid>
-            <pubDate>Wed, 09 Mar 2016 02:21:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
