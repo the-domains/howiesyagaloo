@@ -4,8 +4,15 @@
         <description><![CDATA[Howies YAGALOO Das Musikmagazin ]]></description>
         <link>https://thegrid.ai/howiesyagaloo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 12:19:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2016 19:39:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/howiesyagaloo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Du bist auch schön! ]]></title>
+            <description><![CDATA[<article><h1>Du bist auch schön! </h1><p>Du bist auch schön!</p></article>]]></description>
+            <link>https://thegrid.ai/howiesyagaloo/du-bist-auch-schon/index.html</link>
+            <guid isPermaLink="false">d5bab6a8-f0f9-4b3b-9133-6ba94191df2e</guid>
+            <pubDate>Mon, 14 Mar 2016 19:39:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA["The Better Life", wo bist du?]]></title>
             <description><![CDATA[<article><h1>"The Better Life", wo bist du?</h1><p>laut.de-Kritik Review von Kai Butterweck Als trittbrettfahrender Nickelback-Schatten verschrien, hatte es das 3 Doors Down-Kollektiv in den vergangenen Jahren nicht leicht. Selbst schuld, hört man all die Kritiker maulen, die sich nach der Veröffentlichung des fulminanten Post- Grunge- Debüts der Band im Jahr 2000 auf viele weitere Alternative-Juwelen à la "Kryptonite", "Duck And Run" oder "Smack" gefreut hatten.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ecb5252e974d777eb971a585bf729aa7fab78d02.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.tonspion.de/neues/neueste/6284810</link>
             <guid isPermaLink="false">c42950c2-4914-4d0e-9615-fd9deb6e1919</guid>
             <pubDate>Mon, 14 Mar 2016 08:36:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[isso. #readly ]]></title>
-            <description><![CDATA[<article><h1>isso. #readly </h1><p>isso. #readly</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b4dcf2ce5ea11c5239002ad2faf050e68512252a.png"></article>]]></description>
-            <link>https://thegrid.ai/howiesyagaloo/isso-readly/index.html</link>
-            <guid isPermaLink="false">b1c9ddf1-bd7b-4edd-b0bd-09fdd6ff32fb</guid>
-            <pubDate>Mon, 14 Mar 2016 01:54:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
