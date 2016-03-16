@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-16T18:22:37.539Z'
-dateModified: '2016-03-16T18:22:26.466Z'
+description: "Du kennst\_YAGALOO.TV\_aus dem\_Fernsehen\_oder dem\_Internet\_- oder andere Musiker haben Dich schon auf\_YAGALOO.TV\_angesprochen? Du bist Musiker und spielst solo oder in einer Band? Du willst Deine Musik auch mal einem\_größeren Publikum\_vorstellen? Dann bist DU bei\_YAGALOO.TVgenau richtig!\_"
+datePublished: '2016-03-16T18:25:24.308Z'
+dateModified: '2016-03-16T18:23:35.561Z'
 title: 'TV und Online Promotion für Dich und Deine Band!'
 author: []
+sourcePath: _posts/2016-03-16-tv-und-online-promotion-fur-dich-und-deine-band.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-16-tv-und-online-promotion-fur-dich-und-deine-band.md
-published: true
 url: tv-und-online-promotion-fur-dich-und-deine-band/index.html
-_type: Article
+_type: WebPage
 
 ---
 # TV und Online Promotion für Dich und Deine Band!
