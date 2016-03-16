@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: "Vor ein paar Wochen habe ich ein Foto im Magazin\_NEON\_entdeckt - es zeigte das Michigan Stadium mit einer\_Rekordbesucheranzahl von 104.173\_am 11. Dezember 2010. Da dachte ich mir \"wow\"- ungefähr so viele Menschen erreiche ich pro Monat\_allein über muzu.tv, manchmal auch bei youtube und die ganzen Fernsehzuschauer bei den 120 Ausstrahlungen kommen mit Sicherheit auch an diesen Wert ran.\_Sprich: mit YAGALOO fülle ich jeden Monat drei Mal so ein Stadion! Ist doch der Hammer, oder?\_Howie YAGALOO"
-datePublished: '2016-03-16T18:19:21.295Z'
-dateModified: '2016-03-16T18:18:53.377Z'
-title: ''
+datePublished: '2016-03-16T18:25:36.201Z'
+dateModified: '2016-03-16T18:23:21.168Z'
+title: Mediadaten
 author: []
+sourcePath: _posts/2016-03-16-vor-ein-paar-wochen-habe-ich-ein-foto-im-magazin-neon-entdec.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-16-vor-ein-paar-wochen-habe-ich-ein-foto-im-magazin-neon-entdec.md
-published: true
 url: vor-ein-paar-wochen-habe-ich-ein-foto-im-magazin-neon-entdec/index.html
-_type: Article
+_type: WebPage
 
 ---
 ### VORWORT:
