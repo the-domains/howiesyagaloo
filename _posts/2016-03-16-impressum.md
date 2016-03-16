@@ -6,8 +6,8 @@ inLanguage: de
 starred: false
 keywords: []
 description: Angaben gemäß § 5 TMG
-datePublished: '2016-03-16T16:30:07.212Z'
-dateModified: '2016-03-16T16:09:58.283Z'
+datePublished: '2016-03-16T16:30:49.841Z'
+dateModified: '2016-03-16T16:30:07.828Z'
 author: []
 related: []
 app_links: []
