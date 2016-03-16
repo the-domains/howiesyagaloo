@@ -1,26 +1,26 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://yagaloo.com/impressum.html'
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: de
 starred: false
 keywords: []
-description: 'Angaben gemäß § 5 TMG YAGALOO media production Michael Weiner aka "Howie Yagaloo" Erdmannstr. 9 10827 Berlin Vertreten durch: Michael Weiner Kontakt: Telefon: 030-85974904 E-Mail: michael.weiner (at) yagaloo.com Umsatzsteuer-ID: Umsatzsteuer-Identifikationsnummer gemäß §27a Umsatzsteuergesetz: DE136557666 Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV: Michael Weiner Erdmannstr.'
-datePublished: '2016-03-16T16:04:14.294Z'
-dateModified: '2016-03-16T16:04:04.374Z'
+description: Angaben gemäß § 5 TMG
+datePublished: '2016-03-16T16:30:07.212Z'
+dateModified: '2016-03-16T16:09:58.283Z'
 author: []
 related: []
 app_links: []
 title: IMPRESSUM
+sourcePath: _posts/2016-03-16-impressum.md
+published: true
 authors: []
 publisher:
   name: Yagaloo
   domain: yagaloo.com
   url: 'http://yagaloo.com'
   favicon: 'http://yagaloo.com/templates/tx_zmash/favicon.ico'
-sourcePath: _posts/2016-03-16-impressum.md
-published: true
+url: impressum/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
@@ -31,8 +31,8 @@ Angaben gemäß § 5 TMG
 
 YAGALOO media production  
 Michael Weiner aka "Howie Yagaloo"   
-Erdmannstr. 9  
-10827 Berlin
+Dahlmannstr. 13  
+10629 Berlin
 
 **Vertreten durch:**  
 Michael Weiner
@@ -46,8 +46,8 @@ Umsatzsteuer-Identifikationsnummer gemäß §27a Umsatzsteuergesetz: DE136557666
 **Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:**
 
 Michael Weiner  
-Erdmannstr. 9  
-10827 Berlin
+Dahlmannstr. 13  
+10629 Berlin
 
 **Haftungsausschluss: **
 
