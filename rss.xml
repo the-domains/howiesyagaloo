@@ -4,8 +4,15 @@
         <description><![CDATA[Howies YAGALOO Das Musikmagazin ]]></description>
         <link>https://thegrid.ai/howiesyagaloo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Mar 2016 12:46:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2016 12:54:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/howiesyagaloo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Die Killerpilze haben ein neues Album]]></title>
+            <description><![CDATA[<article><h1>Die Killerpilze haben ein neues Album</h1><p>Die Donau-Zeitung verlost ein paar wenige Exemplare. Und ein Konzert gibt es auch. Von Simone Bronnhuber Wir sind immer noch jung, wir brennen lieber durch, als langsam aus. Wir sind immer noch jung und wenn du willst, sind wir hier morgen schon raus. Zeilen, die genau so gemeint und die nach einmal hören leicht mitzusingen sind.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1b15a1230f1fb8597e2da03fb1f4db103dfe17ed.jpg"></article>]]></description>
+            <link>http://www.augsburger-allgemeine.de/wertingen/Die-Killerpilze-haben-ein-neues-Album-id37206557.html</link>
+            <guid isPermaLink="false">eeb1a1b3-54c4-493c-a5af-4c49728a2350</guid>
+            <pubDate>Fri, 18 Mar 2016 12:54:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Die Killerpilze im Kulturressort auf tagesschau24.mp4]]></title>
             <description><![CDATA[<article><h1>Die Killerpilze im Kulturressort auf tagesschau24.mp4</h1><p>tagesschau.de - die erste Adresse für Nachrichten und Information: An 365 Tagen im Jahr rund um die Uhr aktualisiert bietet tagesschau.de die wichtigsten Nachrichten des Tages und zusätzliche Informationen in Text, Bild, Audio und Video, sowie umfassende Berichte und Hintergründe zu aktuellen Themen.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cca79167c1b1f84515d46035022caaaa/noop.jpg?input=https%3A%2F%2Fwww.tagesschau.de%2Fmultimedia%2Fbilder%2Fvideo1260148~_v-videowebm.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=g9tEOejDOfw</link>
             <guid isPermaLink="false">b58cbfe8-47cd-4de5-abc5-21588e59036e</guid>
             <pubDate>Thu, 17 Mar 2016 13:54:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Adesse - Sekundenbkleber]]></title>
-            <description><![CDATA[<article><h1>Adesse - Sekundenbkleber</h1><p>Trag dich hier in den Adesse WhatsApp-Verteiler ein: http://www.adessemusik.de Das Album "Fechnerstraße" erscheint am 25.03.2016, jetzt vorbestellen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/69d8457928969ad598c9d9e240ee7528b2d4ed54.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=rcZhiX4iEHE</link>
-            <guid isPermaLink="false">edad676a-d04e-4a37-a6f0-448ab631ef6a</guid>
-            <pubDate>Thu, 17 Mar 2016 13:48:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
