@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Als Macher von YAGALOO Das Musikmagazin, das mittlerweile schon neun Jahre lang auf regionalen TV-Sendern zu sehen ist, habe ich mir über die Jahre ein gutes Netzwerk vor allem in Berlin aufgebaut. Als Vorstandsmitglied der Berlin Music Association e.V. arbeite ich seit einigen Jahren auch mit zahlreichen Newcomern zusammen. Weil wir wissen, wie schwierig es für junge Bands ist, Live-Auftritte in einem professionellen Rahmen zu spielen, bieten wir vom Verein aus zahlreiche Möglichkeiten an, sich in Berlin live vor einem Publikum zu präsentieren.'
-datePublished: '2016-03-19T09:45:12.233Z'
-dateModified: '2016-03-19T09:18:59.924Z'
-title: 'Du wolltest solo oder mit Deiner Band schon immer mal in Berlin spielen? Dann bist Du hier richtig!'
+datePublished: '2016-03-19T11:21:51.178Z'
+dateModified: '2016-03-19T11:21:44.631Z'
+title: Live spielen in Berlin?
 author: []
 sourcePath: _posts/2016-03-19-du-wolltest-solo-oder-mit-deiner-band-schon-immer-mal-in-ber.md
 published: true
@@ -22,7 +22,11 @@ url: du-wolltest-solo-oder-mit-deiner-band-schon-immer-mal-in-ber/index.html
 _type: Article
 
 ---
-# Du wolltest solo oder mit Deiner Band schon immer mal in Berlin spielen? Dann bist Du hier richtig!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b61f967-b78f-4e78-9ddb-9372751e973f.jpg)
+
+# Live spielen in Berlin?
+
+## Du wolltest solo oder mit Deiner Band schon immer mal in Berlin spielen? Dann bist Du hier richtig!
 
 Als Macher von **YAGALOO Das Musikmagazin**, das mittlerweile schon **neun Jahre** lang auf regionalen TV-Sendern zu sehen ist, habe ich mir über die Jahre ein gutes Netzwerk vor allem in Berlin aufgebaut. Als Vorstandsmitglied der **Berlin Music Association e.V**. arbeite ich seit einigen Jahren auch mit zahlreichen Newcomern zusammen. Weil wir wissen, wie schwierig es für junge Bands ist, **Live-Auftritte** in einem professionellen Rahmen zu spielen, bieten wir vom Verein aus zahlreiche Möglichkeiten an, sich in Berlin live vor einem Publikum zu präsentieren.
 
@@ -33,7 +37,6 @@ Für die unterschiedlichen locations und auch Veranstaltungsreihen möchte ich n
 Wenn Ihr also Lust habt, mal in Berlin zu spielen, dann schickt mir Eure Infos (**Bandbio,Beschreibung**) - am besten per PDF, verbunden mit Links zu bereits existierenden **Videos**, sowie **1-2 Fotos** von Euch, die der jeweilige Veranstalter dann auch zu Promozwecken für Eure Show nutzen kann. Auch mögliche **Terminvorschläge** oder Zeiträume, in denen es für Euch ideal wäre hier zu spielen, sollten gemacht werden. Das ganze dann per Email an yagaloo (at ) gmail.com. **BETREFF: LIVEGIGS IN BERLIN**
 
 Bei Fragen stehe ich Euch jederzeit zur Verfügung!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b61f967-b78f-4e78-9ddb-9372751e973f.jpg)
 
 Und wenn Du dann zwei Fliegen mit einer Klappe schlagen willst, schaust Du Dir auch meine Seite [**BANDPROMO**][0] an, weil wenn Du/Ihr schon mal in Berlin seid, könnt Ihr die Gunst der Stunde ja nutzen, um Euch bei **YAGALOO in der TV-Sendung** vorzustellen. Alle Infos findest Du dazu [hier][0].
 
