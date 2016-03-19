@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Als Macher von YAGALOO Das Musikmagazin, das mittlerweile schon neun Jahre lang auf regionalen TV-Sendern zu sehen ist, habe ich mir über die Jahre ein gutes Netzwerk vor allem in Berlin aufgebaut. Als Vorstandsmitglied der Berlin Music Association e.V. arbeite ich seit einigen Jahren auch mit zahlreichen Newcomern zusammen. Weil wir wissen, wie schwierig es für junge Bands ist, Live-Auftritte in einem professionellen Rahmen zu spielen, bieten wir vom Verein aus zahlreiche Möglichkeiten an, sich in Berlin live vor einem Publikum zu präsentieren.'
-datePublished: '2016-03-19T08:57:08.748Z'
-dateModified: '2016-03-19T08:56:39.369Z'
+datePublished: '2016-03-19T09:00:27.218Z'
+dateModified: '2016-03-19T08:59:24.559Z'
 title: 'Du wolltest solo oder mit Deiner Band schon immer mal in Berlin spielen? Dann bist Du hier richtig!'
 author: []
 sourcePath: _posts/2016-03-19-du-wolltest-solo-oder-mit-deiner-band-schon-immer-mal-in-ber.md
@@ -34,3 +34,7 @@ Wenn Ihr also Lust habt, mal in Berlin zu spielen, dann schickt mir Eure Infos (
 
 Bei Fragen stehe ich Euch jederzeit zur Verfügung!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b61f967-b78f-4e78-9ddb-9372751e973f.jpg)
+
+Und wenn Du dann zwei Fliegen mit einer Klappe schlagen willst, schaust Du Dir auch meine Seite [**BANDPROMO**][0] an, weil wenn Du/Ihr schon mal in Berlin seid, könnt Ihr die Gunst der Stunde ja nutzen, um Euch bei **YAGALOO in der TV-Sendung** vorzustellen. Alle Infos findest Du dazu [hier][0].
+
+[0]: https://thegrid.ai/howiesyagaloo/tv-und-online-promotion-fur-dich-und-deine-band/
