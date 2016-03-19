@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-19T08:56:31.583Z'
-dateModified: '2016-03-19T08:56:26.780Z'
+description: 'Als Macher von YAGALOO Das Musikmagazin, das mittlerweile schon neun Jahre lang auf regionalen TV-Sendern zu sehen ist, habe ich mir über die Jahre ein gutes Netzwerk vor allem in Berlin aufgebaut. Als Vorstandsmitglied der Berlin Music Association e.V. arbeite ich seit einigen Jahren auch mit zahlreichen Newcomern zusammen. Weil wir wissen, wie schwierig es für junge Bands ist, Live-Auftritte in einem professionellen Rahmen zu spielen, bieten wir vom Verein aus zahlreiche Möglichkeiten an, sich in Berlin live vor einem Publikum zu präsentieren.'
+datePublished: '2016-03-19T08:57:08.748Z'
+dateModified: '2016-03-19T08:56:39.369Z'
 title: 'Du wolltest solo oder mit Deiner Band schon immer mal in Berlin spielen? Dann bist Du hier richtig!'
 author: []
+sourcePath: _posts/2016-03-19-du-wolltest-solo-oder-mit-deiner-band-schon-immer-mal-in-ber.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-19-du-wolltest-solo-oder-mit-deiner-band-schon-immer-mal-in-ber.md
-published: true
 url: du-wolltest-solo-oder-mit-deiner-band-schon-immer-mal-in-ber/index.html
 _type: Article
 
