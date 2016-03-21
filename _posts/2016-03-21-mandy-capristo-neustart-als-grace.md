@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Mandy Capristo wagt Neustart als "Grace"'
-datePublished: '2016-03-21T18:54:32.304Z'
-dateModified: '2016-03-21T18:54:27.826Z'
+datePublished: '2016-03-21T18:57:20.366Z'
+dateModified: '2016-03-21T18:54:41.810Z'
 title: 'Mandy Capristo - Neustart als "Grace"'
 author: []
+sourcePath: _posts/2016-03-21-mandy-capristo-neustart-als-grace.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-21-mandy-capristo-neustart-als-grace.md
-published: true
 url: mandy-capristo-neustart-als-grace/index.html
 _type: Article
 
