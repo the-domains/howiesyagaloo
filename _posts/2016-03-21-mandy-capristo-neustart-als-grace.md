@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Mandy Capristo wagt Neustart als "Grace"'
-datePublished: '2016-03-21T18:57:20.366Z'
-dateModified: '2016-03-21T18:54:41.810Z'
+datePublished: '2016-03-21T18:59:30.903Z'
+dateModified: '2016-03-21T18:57:28.480Z'
 title: 'Mandy Capristo - Neustart als "Grace"'
 author: []
 sourcePath: _posts/2016-03-21-mandy-capristo-neustart-als-grace.md
@@ -22,9 +22,8 @@ url: mandy-capristo-neustart-als-grace/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f4aa5f0-1432-4e07-a799-ef20d7aed6a9.jpg)
-
 **Mandy Capristo wagt Neustart als "Grace"**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f4aa5f0-1432-4e07-a799-ef20d7aed6a9.jpg)
 
 Was für eine Überraschung! Ohne Vorwarnung hat **Mandy Capristo **an ihrem 26\. Geburtstag all ihre Einträge auf ihren Social-Media-Accounts gelöscht, um dann kurze Zeit später als **[Grace][0]** in Erscheinung zu treten. Mit im Gepäck: Ihre neue Single "**One Woman Army**".
 
