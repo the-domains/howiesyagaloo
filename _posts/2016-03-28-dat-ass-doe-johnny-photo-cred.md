@@ -1,15 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.instagram.com/p/BDcArURAvtC/?taken-by=justinbieber'
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2016-03-28T15:05:48.566Z'
+dateModified: '2016-03-28T15:05:47.859Z'
 author:
   - name: justinbieber
     url: 'https://www.instagram.com/justinbieber'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.instagram.com'
-  name: Instagram
-  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
-  domain: www.instagram.com
-keywords: []
 app_links:
   - url: 'instagram://media?id=1214848976180935490'
     type: ios
@@ -25,17 +29,17 @@ app_links:
     package: com.instagram.android
     namespace: google
     type: android
-isBasedOnUrl: 'https://www.instagram.com/p/BDcArURAvtC/?taken-by=justinbieber'
 title: Dat ass doe @johnny photo cred
-datePublished: '2016-03-28T11:04:16.557Z'
-dateModified: '2016-03-28T10:35:59.206Z'
 sourcePath: _posts/2016-03-28-dat-ass-doe-johnny-photo-cred.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Instagram
+  domain: www.instagram.com
+  url: 'https://www.instagram.com'
+  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
 _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![Dat ass doe @johnny photo cred](https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/12912616_973187559401898_1581184659_n.jpg?ig_cache_key=MTIxNDg0ODk3NjE4MDkzNTQ5MA%3D%3D.2)
+![Dat ass doe @johnny photo cred](https://s3-us-west-2.amazonaws.com/the-grid-img/p/404759a6eddb2b39c35af85164a86ebd65e6e9d1.jpg)
