@@ -4,8 +4,15 @@
         <description><![CDATA[Howies YAGALOO Das Musikmagazin ]]></description>
         <link>https://thegrid.ai/howiesyagaloo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 01:39:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2016 01:40:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/howiesyagaloo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[für charts-fans.]]></title>
+            <description><![CDATA[<article><h1>für charts-fans.</h1><p>AnnenMayKantereit haben es geschafft. Mit ihrem Debütalbum "Alles Nix Konkretes" erobern sie auf Anhieb die Spitze der deutschen Albumcharts. Und das obwohl ihr lang erwartetes Album von der Kritik eher zerrissen wurde, als habe man zu viel Hoffnung in die junge Kölner Band gesteckt.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1ed9ccbdf83cd9ef95fb775ecd98bc56b6bcfb5d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/howiesyagaloo/fur-charts-fans/index.html</link>
+            <guid isPermaLink="false">e925ae80-66c7-4a13-b7d0-6a4aeed54ba6</guid>
+            <pubDate>Thu, 31 Mar 2016 01:39:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[muss man sehen! ]]></title>
             <description><![CDATA[<article><h1>muss man sehen! </h1><p>Gestern war Michael Stipe bei Jimmy Fallon zu Gast und präsentierte seine Version des Bowie Klassikers "The Man Who Sold The World", den er am Freitag auf dem Bowie Tribute Konzert in New York zum Besten geben wird.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d4382c32442ae5d717ca70c07b007fa28c94f8de.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/howiesyagaloo/du-wolltest-solo-oder-mit-deiner-band-schon-immer-mal-in-ber/index.html</link>
             <guid isPermaLink="false">db8103df-a4bc-45d5-93b6-0e956d7201ea</guid>
             <pubDate>Mon, 21 Mar 2016 18:58:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AnnenMayKantereit]]></title>
-            <description><![CDATA[<article><h1>AnnenMayKantereit</h1><p>Soundcheck Eigentlich haben AnnenMayKantereit so ziemlich alles falsch gemacht. Und trotzdem ist ihr Name in aller Munde. Was ist dran am Hype um die Straßenmusiker aus Köln? Sie haben den beschissensten Bandnamen der Welt. Das kommt dabei raus, wenn in einer Band noch Demokratie herrscht und jeder namentlich auf dem Plaket stehen will.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1cd24fc1231324ea77c608d8dddcc262bc5eec60.jpg"></article>]]></description>
-            <link>http://www.tonspion.de/musik/annenmaykantereit/musik/6284806</link>
-            <guid isPermaLink="false">352b8fd5-9085-40fa-9079-23a3ff98842a</guid>
-            <pubDate>Mon, 21 Mar 2016 18:56:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
