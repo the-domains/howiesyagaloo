@@ -4,30 +4,28 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: „Gott ist tot“ – doch Sehnsucht und Verlangen bleiben für immer.
-datePublished: '2016-05-01T12:45:30.312Z'
-dateModified: '2016-05-01T12:45:19.081Z'
-title: ''
+description: 'Friedrich Nietzsche fasste einst die Ablösung des Glaubens durch die Aufklärung und die Wissenschaft in einem kurzen Satz zusammen: „Gott ist tot“. Tanz der Vampire greift diesen Satz auf, beinahe neidisch auf diesen Gott bedauern die Unsterblichen, dass sie zu ewigem Leben verflucht seien. Wünschen wir uns nicht alle irgendwie ewiges Leben? Oder gibt die Endlichkeit unserem Leben erst Sinn?'
+datePublished: '2016-05-02T16:18:02.534Z'
+dateModified: '2016-05-02T16:17:59.034Z'
+title: „Gott ist tot“ – doch Sehnsucht und Verlangen bleiben für immer.
 author: []
+sourcePath: _posts/2016-05-01-gott-ist-tot-doch-sehnsucht-und-verlangen-bleiben-fur-im.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-starred: false
-sourcePath: _posts/2016-05-01-gott-ist-tot-doch-sehnsucht-und-verlangen-bleiben-fur-im.md
-published: true
+starred: true
 url: gott-ist-tot-doch-sehnsucht-und-verlangen-bleiben-fur-im/index.html
 _type: Article
 
 ---
-„Gott ist tot" -- doch Sehnsucht und Verlangen bleiben für immer.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d4b280a-af54-4a5a-9cc4-e63c14a4758b.jpg)
+# „Gott ist tot" -- doch Sehnsucht und Verlangen bleiben für immer.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a37a203-0b4c-4b6e-82f1-3af8a543e927.jpg)
 
-photo-credit: [STAGE ENTERTAINMENT ][0]
-
-**Tanz der Vampire** hat nach dreijähriger Spielpause wieder angebissen. In einem der schönsten Theater Deutschlands, im Berliner **Theater des Westens**, feierte das Kultmusical von Oscargewinner **Roman Polanski** am Sonntag, den 24.04.2016 Premiere. Bereits zum dritten Mal gastiert das Meisterwerk in der Hauptstadt, bevor es im September nach München weiterziehen wird. Dass es sich um eine etwas abgespeckte Inszenierung handelt, fällt nur dem geschulten Vampirfan auf.
+## **Tanz der Vampire** hat nach dreijähriger Spielpause wieder angebissen. In einem der schönsten Theater Deutschlands, im Berliner **Theater des Westens**, feierte das Kultmusical von Oscargewinner **Roman Polanski** am Sonntag, den 24.04.2016 Premiere. Bereits zum dritten Mal gastiert das Meisterwerk in der Hauptstadt, bevor es im September nach München weiterziehen wird. Dass es sich um eine etwas abgespeckte Inszenierung handelt, fällt nur dem geschulten Vampirfan auf.
 
 Friedrich Nietzsche fasste einst die Ablösung des Glaubens durch die Aufklärung und die Wissenschaft in einem kurzen Satz zusammen: „Gott ist tot". Tanz der Vampire greift diesen Satz auf, beinahe neidisch auf diesen Gott bedauern die Unsterblichen, dass sie zu ewigem Leben verflucht seien. Wünschen wir uns nicht alle irgendwie ewiges Leben? Oder gibt die Endlichkeit unserem Leben erst Sinn?
 
@@ -39,6 +37,8 @@ Neben den im deutschsprachigen Raum bislang unbekannten Hauptdarstellern Veronic
 
 **Tanz der Vampire** ist für Jung und Alt, für Rocker und für Musicalfan, für Mann und für Frau und was dazwischen liegt gleichermaßen geeignet. Eine tolle Geschichte, die gut erzählt ist, eingebettet in rockiger Musik und toller Kulisse. Schauer, Romantik, Verführung und Witz wechseln sich ab, sodass ein breites Spektrum an Gefühlen bedient wird. Tanzszenen, Klamauk und Soli sind sehr gut aufeinander abgestimmt. Es kommt während der knapp dreistündigen Show keine Langeweile auf. Auch wenn Musicaltickets gewiss nicht günstig sind, Tanz der Vampire ist einen Besuch wert. Lasst Euch die Tickets schenken oder ladet eure Herzensmenschen ein - fühlt gemeinsam mit den Vampiren eine Nacht im Theater des Westens - carpe noctem! 
 
-_Hannes Ulrich für YAGALOO Das Musikmagazin._
+_Hannes Ulrich für YAGALOO Das Musikmagazin.___
+
+photo-credit: [STAGE ENTERTAINMENT][0]
 
 [0]: http://www.stage-entertainment.de/
