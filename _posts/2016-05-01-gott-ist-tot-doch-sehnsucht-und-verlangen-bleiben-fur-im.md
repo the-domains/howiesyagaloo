@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Friedrich Nietzsche fasste einst die Ablösung des Glaubens durch die Aufklärung und die Wissenschaft in einem kurzen Satz zusammen: „Gott ist tot“. Tanz der Vampire greift diesen Satz auf, beinahe neidisch auf diesen Gott bedauern die Unsterblichen, dass sie zu ewigem Leben verflucht seien. Wünschen wir uns nicht alle irgendwie ewiges Leben? Oder gibt die Endlichkeit unserem Leben erst Sinn?'
-datePublished: '2016-05-02T16:18:02.534Z'
-dateModified: '2016-05-02T16:17:59.034Z'
+datePublished: '2016-05-02T16:20:20.109Z'
+dateModified: '2016-05-02T16:20:16.120Z'
 title: „Gott ist tot“ – doch Sehnsucht und Verlangen bleiben für immer.
 author: []
 sourcePath: _posts/2016-05-01-gott-ist-tot-doch-sehnsucht-und-verlangen-bleiben-fur-im.md
@@ -25,7 +25,7 @@ _type: Article
 # „Gott ist tot" -- doch Sehnsucht und Verlangen bleiben für immer.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a37a203-0b4c-4b6e-82f1-3af8a543e927.jpg)
 
-## **Tanz der Vampire** hat nach dreijähriger Spielpause wieder angebissen. In einem der schönsten Theater Deutschlands, im Berliner **Theater des Westens**, feierte das Kultmusical von Oscargewinner **Roman Polanski** am Sonntag, den 24.04.2016 Premiere. Bereits zum dritten Mal gastiert das Meisterwerk in der Hauptstadt, bevor es im September nach München weiterziehen wird. Dass es sich um eine etwas abgespeckte Inszenierung handelt, fällt nur dem geschulten Vampirfan auf.
+**Tanz der Vampire** hat nach dreijähriger Spielpause wieder angebissen. In einem der schönsten Theater Deutschlands, im Berliner **Theater des Westens**, feierte das Kultmusical von Oscargewinner **Roman Polanski** am Sonntag, den 24.04.2016 Premiere. Bereits zum dritten Mal gastiert das Meisterwerk in der Hauptstadt, bevor es im September nach München weiterziehen wird. Dass es sich um eine etwas abgespeckte Inszenierung handelt, fällt nur dem geschulten Vampirfan auf.
 
 Friedrich Nietzsche fasste einst die Ablösung des Glaubens durch die Aufklärung und die Wissenschaft in einem kurzen Satz zusammen: „Gott ist tot". Tanz der Vampire greift diesen Satz auf, beinahe neidisch auf diesen Gott bedauern die Unsterblichen, dass sie zu ewigem Leben verflucht seien. Wünschen wir uns nicht alle irgendwie ewiges Leben? Oder gibt die Endlichkeit unserem Leben erst Sinn?
 
