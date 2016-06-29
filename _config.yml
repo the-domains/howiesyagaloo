@@ -1,6 +1,6 @@
 name: 'Howie Yagaloo '
 favicon: null
-layout_spectrum: 0.83918
+layout_spectrum: 0
 typography_spectrum: 0
 title: 'Howies YAGALOO Das Musikmagazin '
 collections:
@@ -29,13 +29,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#0b0100'
-    - '#ffffff'
-    - '#2d2f3b'
-    - '#d0cece'
-    - '#918f8e'
-  brandStrength: 0.875
-  lightness: 0.1875
+    - '#030202'
+    - '#fefefe'
+    - '#5e8422'
+    - '#2f44f7'
+    - '#ef3228'
+  brandStrength: 0
+  lightness: 0.8125
   saturation: 0.875
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.75
 purpose: []
