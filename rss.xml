@@ -4,11 +4,18 @@
         <description><![CDATA[Howies YAGALOO Das Musikmagazin ]]></description>
         <link>https://thegrid.ai/howiesyagaloo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 29 Jun 2016 19:51:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2016 20:30:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/howiesyagaloo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Am 02.10.16 live in Berlin!</p>]]></description>
+            <link>https://thegrid.ai/howiesyagaloo/am-021016-live-in-berlin/index.html</link>
+            <guid isPermaLink="false">bd5b4f50-d929-43b5-bd8b-682afc826076</guid>
+            <pubDate>Wed, 29 Jun 2016 20:29:36 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[local-heroes: Happy Birthday, local heroes!]]></title>
-            <description><![CDATA[<article><h1>local-heroes: Happy Birthday, local heroes!</h1><p>Am Anfang war es nur eine Plattform für eine Region. Mittlerweile ist local heroes zu der Kulisse für ambitionierte junge Musiker aus ganz Europa geworden. Zum 25. Geburtstag blicken die Geschäftsführerin Julia Wartmann und Gründer Dieter Herker auf ihr „Baby" zurück und schalten für die Zukunft noch einen Gang nach oben.</p><img src="http://local-heroes.de//files/2/3/Y6FBSX5AFV/__L.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>local-heroes: Happy Birthday, local heroes!</h1><p>Am Anfang war es nur eine Plattform für eine Region. Mittlerweile ist local heroes zu der Kulisse für ambitionierte junge Musiker aus ganz Europa geworden. Zum 25. Geburtstag blicken die Geschäftsführerin Julia Wartmann und Gründer Dieter Herker auf ihr „Baby" zurück und schalten für die Zukunft noch einen Gang nach oben.</p></article>]]></description>
             <link>http://local-heroes.de/contest/happy-birthday-local-heroes-29990</link>
             <guid isPermaLink="false">ef02467b-8781-47ea-920b-2d11b9ae022e</guid>
             <pubDate>Wed, 29 Jun 2016 19:51:33 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.tonspion.de/news/die-10-besten-alben-von-depeche-mode</link>
             <guid isPermaLink="false">72b237e9-7078-469c-8ae0-081a0e6437ae</guid>
             <pubDate>Tue, 31 May 2016 22:45:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Musiker jammen und rasten bei LeGig vor Freude aus!]]></title>
-            <description><![CDATA[<article><h1>Musiker jammen und rasten bei LeGig vor Freude aus!</h1><p>Es war ein unbeschreiblicher Abend, als dann weit nach Mitternacht die Stimmung schließlich überkochte und Musiker wie Chris Schummert und Max Buskohl einfach mal vor Glück ausgerastet sind. ***** ► Jetzt Abonnieren: http://bit.ly/1E8SxTX ► Finde uns auf Facebook: https://www.facebook.com/yagaloo.TV ► Folge uns auf Twitter: https://twitter.com/yagalooTV ► Website: http://www.yagaloo.com/ *****</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/47f8c8286f9a3a26f05b1ca4fc0c0190/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2FiUEMmHElErs%2Fmaxresdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=iUEMmHElErs</link>
-            <guid isPermaLink="false">129a6c9f-4350-4ced-8476-9cd2f09d671b</guid>
-            <pubDate>Tue, 24 May 2016 17:50:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
