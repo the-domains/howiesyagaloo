@@ -1,14 +1,9 @@
 ---
-author:
-  - name: Fearless Records
-    url: 'https://www.youtube.com/user/FearlessRecords'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=8yim6I9q0II'
+inLanguage: null
 keywords: []
 description: >-
   ENTIRE PERFORMANCE: http://fearlessrecords.com/familygathering Welcome to the
@@ -16,16 +11,23 @@ description: >-
   Is. All music taken from 'Never Happy, Ever After' Deluxe Edition available
   now at http://smarturl.it/NHEAdeluxeedition PART 1: PART 2: PART 3: PART 4:
   Stay Connected: http://asitisofficial.com http://fearlessrecords.com
+datePublished: '2016-07-09T10:04:01.514Z'
+dateModified: '2016-07-09T10:03:58.720Z'
+author:
+  - name: Fearless Records
+    url: 'https://www.youtube.com/user/FearlessRecords'
+    avatar: {}
+related: []
 app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=8yim6I9q0II'
 title: Fearless Family Gathering - As It Is "My Oceans Were Lakes" (Acoustic)
-datePublished: '2016-07-09T09:31:37.898Z'
-dateModified: '2016-07-09T09:30:10.828Z'
-starred: false
 sourcePath: _posts/2016-07-09-fearless-family-gathering-as-it-is-my-oceans-were-lakes.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
