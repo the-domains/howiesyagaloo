@@ -1,27 +1,28 @@
 ---
+datePublished: '2016-08-18T22:34:55.909Z'
+sourcePath: >-
+  _posts/2016-08-18-die-killerpilze-sind-high-auf-2016-und-bringen-ihre-energi.md
 inFeed: true
+authors: []
 hasPage: false
-inNav: false
-inLanguage: null
 keywords: []
+author: []
+via: {}
+dateModified: '2016-08-18T22:34:54.849Z'
+title: Killerpilze wieder auf Tournee!
+publisher: {}
 description: >-
   Die Killerpilze sind „HIGH“ auf 2016 und bringen ihre energiegeladene
   Live-Show mit frischem Anstrich auf Tour. Lässig-selbstbewusster
   Indie-Rock/Pop’n’Roll at its best!'
-datePublished: '2016-08-18T22:28:35.925Z'
-dateModified: '2016-08-18T22:28:23.047Z'
-title: ''
-author: []
-via: {}
-sourcePath: >-
-  _posts/2016-08-18-die-killerpilze-sind-high-auf-2016-und-bringen-ihre-energi.md
-authors: []
-publisher: {}
+inLanguage: null
+inNav: false
 starred: false
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/43b47df1-792f-462e-9bde-862e26eba4c8.jpg)
+# Killerpilze wieder auf Tournee!
+![Killerpilze beim Interview mit Howie Yagaloo in Berlin](https://the-grid-user-content.s3-us-west-2.amazonaws.com/43b47df1-792f-462e-9bde-862e26eba4c8.jpg)
 
 Die **Killerpilze** sind „**HIGH**" auf 2016 und bringen ihre energiegeladene Live-Show mit frischem Anstrich auf Tour. Lässig-selbstbewusster Indie-Rock/Pop'n'Roll at its best!'
 
@@ -50,7 +51,7 @@ Nach dem bis dato größten Crowdfunding-Erfolg der deutschen Musikgeschichte, b
 Veranstalter: [www.tlpa.de][0]
 
 **Homepage**: **[www.killerpilze.de][1]**  
-**Aktuelles Video:****[https://www.youtube.com/watch?v=\_s0sK09jyFM][2]**
+**Aktuelles Video:[https://www.youtube.com/watch?v=\_s0sK09jyFM][2]**
 
 Quelle: SubSounds
 
