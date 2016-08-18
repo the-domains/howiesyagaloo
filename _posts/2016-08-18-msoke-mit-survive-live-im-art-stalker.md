@@ -1,18 +1,21 @@
 ---
-datePublished: '2016-08-18T22:32:54.638Z'
+datePublished: '2016-08-18T22:51:02.661Z'
 sourcePath: _posts/2016-08-18-msoke-mit-survive-live-im-art-stalker.md
 author: []
 via: {}
-dateModified: '2016-08-18T22:32:51.975Z'
+dateModified: '2016-08-18T22:51:02.529Z'
 title: Msoke mit “Survive” live im Art-Stalker
 publisher:
   name: Michael Weiner
 description: MSOKE mit Gitarrist und Homie im Art-Szaöler
-starred: false
 inFeed: true
 hasPage: false
 inNav: false
-_type: MediaObject
+inLanguage: null
+keywords: []
+authors: []
+starred: true
+_type: Blurb
 
 ---
 ![MSOKE mit Gitarrist und Homie im Art-Szaöler](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea8b5b51-1553-48ae-8680-b856a80b4270.jpg)
