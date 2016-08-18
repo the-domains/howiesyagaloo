@@ -1,21 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+inLanguage: null
+keywords: []
 description: >-
   Die Killerpilze sind „HIGH“ auf 2016 und bringen ihre energiegeladene
   Live-Show mit frischem Anstrich auf Tour. Lässig-selbstbewusster
   Indie-Rock/Pop’n’Roll at its best!'
-dateModified: '2016-08-18T22:21:44.681Z'
-datePublished: '2016-08-18T22:22:36.337Z'
+datePublished: '2016-08-18T22:28:35.925Z'
+dateModified: '2016-08-18T22:28:23.047Z'
 title: ''
 author: []
-publisher: {}
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-08-18-die-killerpilze-sind-high-auf-2016-und-bringen-ihre-energi.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+authors: []
+publisher: {}
+starred: false
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/43b47df1-792f-462e-9bde-862e26eba4c8.jpg)
