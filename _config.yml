@@ -19,6 +19,12 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Michael "HOWIE" Weiner
+  email: michael.weiner@yagaloo.com
+  url: 'http://www.michael-weiner.de'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca4bd700-a094-4961-bc60-641ff4c4e05f.jpg
 name: 'Howie Yagaloo '
 cta:
   domain: null
