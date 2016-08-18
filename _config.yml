@@ -42,7 +42,7 @@ color:
     - '#2f44f7'
     - '#ef3228'
   brandStrength: 0
-  lightness: 1
-  saturation: 0.375
-  rhythmicContrast: 0.25
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 1
 purpose: []
