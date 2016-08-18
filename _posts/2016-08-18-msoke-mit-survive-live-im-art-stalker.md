@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-18T22:26:38.498Z'
+datePublished: '2016-08-18T22:27:06.494Z'
 sourcePath: _posts/2016-08-18-msoke-mit-survive-live-im-art-stalker.md
 author: []
 via: {}
-dateModified: '2016-08-18T22:26:37.876Z'
+dateModified: '2016-08-18T22:27:06.354Z'
 title: Msoke mit “Survive” live im Art-Stalker
 publisher: {}
 description: ''
