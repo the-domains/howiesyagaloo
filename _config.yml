@@ -1,35 +1,29 @@
-typography_spectrum: 0.59447
+title: 'Howies YAGALOO Das Musikmagazin '
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+description: aus Berlin!
 color:
+  saturation: 0.002506266
+  brandStrength: 0
+  lightness: 0.25
   brandColors:
     - '#030202'
     - '#fefefe'
     - '#5e8422'
     - '#2f44f7'
     - '#ef3228'
-  brandStrength: 0
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 1
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.75127
-analytics:
-  google: null
-  facebook: '535623766631924'
-  twitter: null
-author:
-  name: Michael "HOWIE" Weiner
-  email: michael.weiner@yagaloo.com
-  url: 'http://www.michael-weiner.de'
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca4bd700-a094-4961-bc60-641ff4c4e05f.jpg
-name: 'Howie Yagaloo '
-cta:
-  domain: null
-  bucket: null
-  version: null
+  rhythmicContrast: 0
 navigation:
   - name: Facebook
     url: www.facebook.com/yagaloo.TV/
@@ -37,19 +31,25 @@ navigation:
   - name: YOUTUBE
     url: 'https://www.youtube.com/yagalooTV'
     type: external
+cta:
+  bucket: null
+  version: null
+  domain: null
+name: 'Howie Yagaloo '
+author:
+  name: Michael "HOWIE" Weiner
+  email: michael.weiner@yagaloo.com
+  url: 'http://www.michael-weiner.de'
 favicon: null
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
-title: 'Howies YAGALOO Das Musikmagazin '
-description: aus Berlin!
-purpose: []
+opengraph:
+  image: null
+  type: null
+  appId: null
+analytics:
+  twitter: null
+  google: null
+  facebook: '535623766631924'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca4bd700-a094-4961-bc60-641ff4c4e05f.jpg
+typography_spectrum: 0.59447
+layout_spectrum: 0.4824561
