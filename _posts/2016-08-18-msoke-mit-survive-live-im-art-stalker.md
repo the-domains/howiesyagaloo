@@ -1,19 +1,19 @@
 ---
-datePublished: '2016-08-18T22:51:02.661Z'
+datePublished: '2016-08-31T18:31:28.981Z'
 sourcePath: _posts/2016-08-18-msoke-mit-survive-live-im-art-stalker.md
+inFeed: true
+authors: []
+hasPage: false
+keywords: []
 author: []
 via: {}
-dateModified: '2016-08-18T22:51:02.529Z'
+dateModified: '2016-08-31T18:31:28.427Z'
 title: Msoke mit “Survive” live im Art-Stalker
 publisher:
   name: Michael Weiner
 description: MSOKE mit Gitarrist und Homie im Art-Szaöler
-inFeed: true
-hasPage: false
-inNav: false
 inLanguage: null
-keywords: []
-authors: []
+inNav: false
 starred: true
 _type: Blurb
 
