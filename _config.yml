@@ -1,35 +1,13 @@
-typography_spectrum: 0.59447
-color:
-  brandColors:
-    - '#030202'
-    - '#fefefe'
-    - '#5e8422'
-    - '#2f44f7'
-    - '#ef3228'
-  brandStrength: 0
-  lightness: 0
-  saturation: 0
-  rhythmicContrast: 0
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.4824561
-analytics:
-  google: null
-  facebook: '535623766631924'
-  twitter: null
+name: 'Howie Yagaloo '
+favicon: null
+layout_spectrum: 0.75945
+typography_spectrum: 0.44507
 author:
   name: Michael "HOWIE" Weiner
   email: michael.weiner@yagaloo.com
   url: 'http://www.michael-weiner.de'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca4bd700-a094-4961-bc60-641ff4c4e05f.jpg
-name: 'Howie Yagaloo '
-cta:
-  domain: null
-  bucket: null
-  version: null
 navigation:
   - name: Facebook
     url: www.facebook.com/yagaloo.TV/
@@ -37,7 +15,6 @@ navigation:
   - name: YOUTUBE
     url: 'https://www.youtube.com/yagalooTV'
     type: external
-favicon: null
 collections:
   - index:
       path: /
@@ -52,4 +29,27 @@ collections:
       number: 10
 title: 'Howies YAGALOO Das Musikmagazin '
 description: aus Berlin!
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: '535623766631924'
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#030202'
+    - '#fefefe'
+    - '#5e8422'
+    - '#2f44f7'
+    - '#ef3228'
+  brandStrength: 0
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 0
 purpose: []
