@@ -4,7 +4,7 @@
         <description><![CDATA[Howies YAGALOO Das Musikmagazin ]]></description>
         <link>https://thegrid.ai/howiesyagaloo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 18:37:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 18:37:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/howiesyagaloo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Toby Breitenbach - Meine Krieger (live)]]></title>
@@ -33,6 +33,13 @@
             <link>https://www.youtube.com/watch?v=i_LzxrEQD6Y</link>
             <guid isPermaLink="false">67ed8e96-9bf3-4ee8-805e-ebc533231b06</guid>
             <pubDate>Wed, 31 Aug 2016 18:36:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Berge - "Trau Dich" (live)]]></title>
+            <description><![CDATA[<article><h1>Berge - "Trau Dich" (live)</h1><p>Berge spielten ihr Set auf den East Side Music Days in Berlin direkt hinter dem nhow-Hotel. Howie ist da auch kurz vorbei, um den neuen Song "Trau Dich" für Euch aufzuzeichnen.</p></article>]]></description>
+            <link>https://www.youtube.com/watch?v=sLyOCzyDIIU</link>
+            <guid isPermaLink="false">ebcfb20c-ac6f-46d5-a9fd-521037f0ebf6</guid>
+            <pubDate>Wed, 31 Aug 2016 18:36:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Black Gang - "Unter Druck" live bei den East Side Music Days 2016]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=3h_jlCvCclk</link>
             <guid isPermaLink="false">42c72c15-e188-4d38-a460-ab28dfe0816e</guid>
             <pubDate>Sat, 06 Aug 2016 11:01:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Katy Perry - Rise (Official Video)]]></title>
-            <description><![CDATA[<article><h1>Katy Perry - Rise (Official Video)</h1><p>In Katy Perrys neuem Musikvideo zu „Rise" sieht man, dass man Berge überwinden kann, wenn man immer weiterkämpft und an sich glaubt. Dazu singt sie symbolisch: "You'll be surprised, I will still rise."</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cd8af5e7dacee8b46b1132db1c414c5d/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FhDJRO0Cgv7k%2Fmaxresdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=hDJRO0Cgv7k</link>
-            <guid isPermaLink="false">036ca57c-9651-461a-b24c-e12b560e968d</guid>
-            <pubDate>Fri, 05 Aug 2016 13:26:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
