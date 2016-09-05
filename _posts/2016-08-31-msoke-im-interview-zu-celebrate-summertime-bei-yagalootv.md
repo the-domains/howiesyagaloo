@@ -66,11 +66,11 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=i_LzxrEQD6Y'
 title: Msoke im Interview zu "Celebrate Summertime" bei Yagaloo.TV
-datePublished: '2016-08-31T18:36:47.703Z'
-dateModified: '2016-08-31T18:36:03.957Z'
+datePublished: '2016-09-02T08:26:22.268Z'
+dateModified: '2016-09-02T08:26:21.859Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-31-msoke-im-interview-zu-celebrate-summertime-bei-yagalootv.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
